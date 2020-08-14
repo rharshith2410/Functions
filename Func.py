@@ -6,5 +6,7 @@ def most_frequent(string):
         else:
             d[key]+=1
     sorted_orders = sorted(d.items(),key=lambda x:x[1],reverse=True)
+    for i in sorted_orders
+        print(i[0],i[1]
 
 most_frequent("Mississippi")
